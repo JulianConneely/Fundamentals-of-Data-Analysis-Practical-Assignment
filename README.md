@@ -1,3 +1,3 @@
 # Fundamentals-of-Data-Analysis-Practical-Assignment
-## This Repositry contains the Jupyter Notebook Anscombe’s quartet dataset.ipynb
+## This Repository contains the Jupyter Notebook Anscombe’s quartet dataset.ipynb
 ## In order to run Jupyter Notebook one must...
