@@ -1,6 +1,6 @@
 # Fundamentals-of-Data-Analysis-Practical-Assignment
-## This Repository contains the Jupyter Notebook Anscombe’s quartet dataset.ipynb
-## In order to run Jupyter Notebook one must...
+## This Repository contains the Jupyter Notebook Anscombe’s quartet dataset.ipynb which explains the background to the datasets and my analysis of same.
+### I ran Jupyter Notebook from the Cmder program utilising Jupyter notebook version 5.50 and Anaconda version 3.6.5.
 
 Problem Statement:
 The following assignment concerns the well-known Anscombe’s quartet dataset [2]. You
